@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{446E9170-4D7C-436E-A5F3-21DFCFFAF571}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A21CB5A9-361D-4DB4-B665-8272705FE6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor.Api", "src\ImageProcessor.Api\ImageProcessor.Api.csproj", "{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8} = {446E9170-4D7C-436E-A5F3-21DFCFFAF571}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
