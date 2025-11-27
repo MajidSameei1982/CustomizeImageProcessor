@@ -6,6 +6,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A21CB5A9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor.Api", "src\ImageProcessor.Api\ImageProcessor.Api.csproj", "{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{F0E90930-E26F-4CF1-9F4B-01772EFB6D71}"
+	ProjectSection(SolutionItems) = preProject
+		docs\13.jpg = docs\13.jpg
+		docs\12.jpg = docs\12.jpg
+		docs\11.jpg = docs\11.jpg
+		docs\10.jpg = docs\10.jpg
+		docs\9.jpg = docs\9.jpg
+		docs\8.jpg = docs\8.jpg
+		docs\7.jpg = docs\7.jpg
+		docs\6.jpg = docs\6.jpg
+		docs\5.jpg = docs\5.jpg
+		docs\4.jpg = docs\4.jpg
+		docs\3.jpg = docs\3.jpg
+		docs\2.jpg = docs\2.jpg
+		docs\1.jpg = docs\1.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
