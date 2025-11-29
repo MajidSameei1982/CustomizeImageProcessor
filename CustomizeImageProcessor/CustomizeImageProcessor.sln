@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{F0E90930-E
 		docs\1.jpg = docs\1.jpg
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor.Service", "src\ImageProcessor.Service\ImageProcessor.Service.csproj", "{821A7557-08DB-45CA-97AD-0076D8AF2FED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,11 +32,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8} = {446E9170-4D7C-436E-A5F3-21DFCFFAF571}
+		{821A7557-08DB-45CA-97AD-0076D8AF2FED} = {446E9170-4D7C-436E-A5F3-21DFCFFAF571}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{893ADA35-FDF4-4903-A9EF-2C989E9BD1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821A7557-08DB-45CA-97AD-0076D8AF2FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821A7557-08DB-45CA-97AD-0076D8AF2FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821A7557-08DB-45CA-97AD-0076D8AF2FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821A7557-08DB-45CA-97AD-0076D8AF2FED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
